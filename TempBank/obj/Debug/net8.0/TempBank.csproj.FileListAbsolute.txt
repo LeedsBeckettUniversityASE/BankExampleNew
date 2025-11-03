@@ -1,0 +1,15 @@
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\bin\Debug\net8.0\TempBank.exe
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\bin\Debug\net8.0\TempBank.deps.json
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\bin\Debug\net8.0\TempBank.runtimeconfig.json
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\bin\Debug\net8.0\TempBank.dll
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\bin\Debug\net8.0\TempBank.pdb
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\obj\Debug\net8.0\TempBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\obj\Debug\net8.0\TempBank.AssemblyInfoInputs.cache
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\obj\Debug\net8.0\TempBank.AssemblyInfo.cs
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\obj\Debug\net8.0\TempBank.csproj.CoreCompileInputs.cache
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\obj\Debug\net8.0\TempBank.sourcelink.json
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\obj\Debug\net8.0\TempBank.dll
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\obj\Debug\net8.0\refint\TempBank.dll
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\obj\Debug\net8.0\TempBank.pdb
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\obj\Debug\net8.0\TempBank.genruntimeconfig.cache
+C:\Users\post\source\repos\ase-boose-assignment-dmullier\TempBank\obj\Debug\net8.0\ref\TempBank.dll
